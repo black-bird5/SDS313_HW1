@@ -45,4 +45,4 @@ plot(votes100$Margin, votes100$Amount, main = "Bond Voting Margins vs Bond Costs
 
 
 #hello, I like men a lot
-
+# Bye
