@@ -41,6 +41,8 @@ votes100$Margin <- diff #adds variable to dataframe
 plot(votes100$Margin, votes100$Amount, main = "Bond Voting Margins vs Bond Costs",
      xlab = "Vote Margin", ylab = "Bond Cost", pch = 20) #creates graph of bond margins (population )vs bond costs
 
+# My favorite number is between -infinity and infinity
+
 
 hi
 
